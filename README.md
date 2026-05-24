@@ -60,7 +60,7 @@ npm install
 npm run dev
 The application web client will open at http://localhost:5173.
 
-######## Project Structure
+####### Project Structure
 *Plaintext
 ShoppingAI/
 ├── backend/                # Java Spring Boot API
@@ -75,4 +75,5 @@ ShoppingAI/
 *Seher Tan Student at Burdur Mehmet Akif Ersoy University
 *GitHub: @meliswydn
 
-*LinkedIn: [https://www.linkedin.com/in/melisa-aydin-633690269/],[https://www.linkedin.com/in/seher-tan-1387782a3/]
+*LinkedIn: [https://www.linkedin.com/in/melisa-aydin-633690269/]
+[https://www.linkedin.com/in/seher-tan-1387782a3/]
