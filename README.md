@@ -60,8 +60,8 @@ npm install
 npm run dev
 The application web client will open at http://localhost:5173.
 
-####### Project Structure
-Plaintext
+######## Project Structure
+*Plaintext
 ShoppingAI/
 ├── backend/                # Java Spring Boot API
 │   ├── src/main/java/...   # Controllers & Service layers
@@ -70,10 +70,9 @@ ShoppingAI/
 │   ├── src/App.jsx         # Premium UI & State management
 │   └── package.json        # NPM dependencies
 └── README.md
-########Developer
-Melisa Nur Aydın Software Engineering Student at Burdur Mehmet Akif Ersoy University
-Seher Tan Student at Burdur Mehmet Akif Ersoy University
-GitHub: @meliswydn
+######## Developer
+*Melisa Nur Aydın Software Engineering Student at Burdur Mehmet Akif Ersoy University
+*Seher Tan Student at Burdur Mehmet Akif Ersoy University
+*GitHub: @meliswydn
 
-LinkedIn: [https://www.linkedin.com/in/melisa-aydin-633690269/]
-[https://www.linkedin.com/in/seher-tan-1387782a3/]
+*LinkedIn: [https://www.linkedin.com/in/melisa-aydin-633690269/],[https://www.linkedin.com/in/seher-tan-1387782a3/]
