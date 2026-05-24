@@ -60,7 +60,7 @@ npm install
 npm run dev
 The application web client will open at http://localhost:5173.
 
-#######Project Structure
+####### Project Structure
 Plaintext
 ShoppingAI/
 ├── backend/                # Java Spring Boot API
